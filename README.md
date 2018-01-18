@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftorch-svm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftorch-svm?ref=badge_shield)
+
 torch-svm
 =========
 
@@ -44,3 +46,7 @@ Status
  - svmsgd and svmasgd implementations are supposed to be complete.
  - LIBLINEAR interface is supposed to be complete, I did not check all the possible flags. If you find that something is not working, let me know.
  - LIBSVM interface is mostly complete, but as of now passing in a precomputed kernel option is missing.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftorch-svm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftorch-svm?ref=badge_large)
